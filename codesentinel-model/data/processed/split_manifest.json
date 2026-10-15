@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "test_frac": 0.15,
+  "val_frac": 0.15,
+  "counts": {
+    "train": 0,
+    "val": 9707,
+    "test": 17521
+  },
+  "train_repos": [],
+  "val_repos": [
+    "FFmpeg"
+  ],
+  "test_repos": [
+    "qemu"
+  ],
+  "dedup_removed": 90
+}
